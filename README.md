@@ -1,1 +1,1 @@
-# plsy-java-jpa-example
+# play-java-jpa-example
